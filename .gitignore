@@ -1,0 +1,6 @@
+*.class
+out/
+bin/
+save.jds
+.idea/
+.vscode/
